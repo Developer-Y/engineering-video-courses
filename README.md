@@ -41,6 +41,6 @@
 
 ### Mechanical Engineering
 - [Thermodynamics - Delft University of Technology](https://itunes.apple.com/us/itunes-u/thermodynamics/id389122238)
-
+- [MIT Machine Shop Videos](https://www.youtube.com/playlist?list=PLF06SHGgSg4Fk5-yeh8DN3g6ZgaM0tbk7)
   
 
