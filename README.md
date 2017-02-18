@@ -21,7 +21,8 @@
 
 ### Electrical Engineering
 - **Circuits**
-  - [Circuits and Systems - Caltech](https://itunes.apple.com/us/course/circuits-and-systems/id1191494394)  
+  - [Circuits and Systems - Caltech](https://itunes.apple.com/us/course/circuits-and-systems/id1191494394) ([YouTube](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)) 
+  - [Analog Circuit Design (By Prof. Ali Hajimiri, Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph8d2777p1PUrfPL-8nfj8oZ)
 - **Signal Processing**
   - [Digital Signal Processing - Delft University of Technology](https://itunes.apple.com/us/itunes-u/digital-signal-processing/id499563421)
 - **Control Systems**
