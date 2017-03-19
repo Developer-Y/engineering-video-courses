@@ -18,6 +18,9 @@
 - [Vibrations of Aerospace Structures - Delft University of Technology](https://itunes.apple.com/us/itunes-u/vibrations-aerospace-structures/id575119128) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHebv2R8bMnMhpxVOE0gtugQ))
 - [16.90 Computational Methods in Aerospace Engineering - MIT OCW](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/lecture-videos/)
 - [Advanced Design and Optimization of Composite Structures I - Delft University](https://www.youtube.com/playlist?list=PLrwuNGSwGLHc7JX93046-knhLnPJI7Lg7)
+- [Delft University\Aerospace Engineering\Advanced Structural Analysis](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcfkeeXsPS9ISqv7bItbR4i)
+- [Delft University\Aerospace Engineering\Advanced Design and Optimization of Composite Structures I](https://www.youtube.com/playlist?list=PLrwuNGSwGLHc7JX93046-knhLnPJI7Lg7)
+- [Delft University\Aerospace Engineering\Statics](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdQdgQj2IfQM9a4lA9NLlUM)
 
 ----------------------------------------------------------------------------------------
 
@@ -38,6 +41,7 @@
 - **Devices**
   - [Advanced Device Physics - Delft University of Technology](https://itunes.apple.com/us/itunes-u/advanced-device-physics/id499557538) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdL1QF240RdfWWUnhbtriWF))
   - [Solar Cells - Delft University of Technology](https://itunes.apple.com/us/itunes-u/solar-cells/id491271818) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcLRAaapKYmoCs104TyyJYm))
+  - [ECE 695s Nanophotonics](https://www.youtube.com/playlist?list=PLrwuNGSwGLHeQaDdlC38e-yy2GtQ12Bjg)
 
 - **Analog Systems**
   - [Analog Integrated Circuit Design - Delft University of Technology](https://itunes.apple.com/us/itunes-u/analog-integrated-circuit/id491267057) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHetgEUj8W0yyTmwvBHFnio5))
@@ -53,10 +57,14 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
 ----------------------------------------------------------------------------------------
 
 ### Mechanical Engineering
+- [MIT 2.003SC Engineering Dynamics, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC)
 - [Thermodynamics - Delft University of Technology](https://itunes.apple.com/us/itunes-u/thermodynamics/id389122238) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHeCmk6nVAlDfwWwbh8mswnq))
 - [MIT Machine Shop Videos](https://www.youtube.com/playlist?list=PLF06SHGgSg4Fk5-yeh8DN3g6ZgaM0tbk7)
 - [MAE 91. Intro to Thermodynamics - UCI Open](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7lRjgvvbv9t92I-P0_i_9Dj)
 - [Engineering MAE 130A. Intro to Fluid Mechanics](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7m8oL297GkRRszNN1Q-l6wb)
+- [EGR 140: Engineering Mechanics - Statics, Yiheng Wang](https://www.youtube.com/playlist?list=PLLbvVfERDon1pceRKOjAxiqFTEvghmZKh)
+- [EGR 245: Engineering Mechanics -- Dynamics, Yiheng Wang](https://www.youtube.com/playlist?list=PLLbvVfERDon3nP0JRpAzze-1KfUiou4AK)
+- [EGR 246: Mechanics of Materials, Yiheng Wang](https://www.youtube.com/playlist?list=PLLbvVfERDon3oDfCYxkwRct1Q6YeOzi9g)
 - [Engineering MAE 165/265: Advanced Manufacturing Choices - UCI Open](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7ncpXgnwo08rR0J9z-E2ID7)
 - [Engineering 165/265:Advanced Manufacturing Choices - UCI Open](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n_62to1TtaCn6pBNbXEU63)
 - [Delft University-Mechanical Engineering/System Identification and Parameter Estimation](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcqyFLnIZFIXexQG_AD14Wp)
