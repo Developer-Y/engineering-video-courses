@@ -8,6 +8,7 @@
 - [Engineering CEE 20: Engineering Problem Solving - UCI Open](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7knT8fKhloW9x2yOH0AUDfo)
 - [Delft University-Management and Technology/Agent Based Modeling of Complex Adaptive](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcZlmdfrwNVh2S3cf6BAwRA)
 - [Delft University-Applied Sciences\Process Intensification](https://www.youtube.com/playlist?list=PLrwuNGSwGLHd9eYVmntwlyrmgArf5qXQC)
+- [Innovation in Product Development - DTU](https://www.youtube.com/playlist?list=PLCCFEE86510E2D747)
 
 --------------------------------------------------------------------------------------------
 
@@ -52,6 +53,7 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
   - [Electrical Machines and Drives -Delft University of Technology](https://itunes.apple.com/us/itunes-u/electrical-machines-drives/id805458039)
   - [Delft University\Electrical Engineering\System Validation](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcrgU3a41pMw9i8O75m8MaM)
   - [Delft University\Electrical Engineering\Measurement Science](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcTf9EKYCmW-0_f-dU5ZloA)
+  - [Computational Electromagnetics](https://www.youtube.com/playlist?list=PLaLOVNqqD-2EuTJ97V5bP0wbX2trqwQOV)
 
 
 ----------------------------------------------------------------------------------------
@@ -82,4 +84,4 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
 - [Delft University\Civil Engineering & Water\Use of Underground Space](https://www.youtube.com/playlist?list=PLrwuNGSwGLHc8wjspZyVvkwcQLX1Mlztl)
 - [Delft University\Civil Engineering & Water\Watermanagement in Urban Areas](https://www.youtube.com/playlist?list=PLrwuNGSwGLHfQ901hmuSp_SoMSZcHHXSW)
 - [Delft University\Civil Engineering & Water\Petroleum Geology](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcb1wC_MPz6RnL8wpf1eqsU)
-
+- [University of South Alabama: Introduction to Geophysics](https://www.youtube.com/playlist?list=PLaLOVNqqD-2F6qLtzzzF8uBQA8BFc_cQJ)
