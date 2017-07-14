@@ -32,11 +32,17 @@
   
 - **Signal Processing**
   - [Digital Signal Processing - Delft University of Technology](https://itunes.apple.com/us/itunes-u/digital-signal-processing/id499563421) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHfOITYzgdG6gGU-_dTfct8P))
+  - [ELEC3104 Digital Signal Processing - UNSWelearning](https://www.youtube.com/playlist?list=PL09D3A5433313EADB)
+  - [Digital Signal Processing - Rutgers](https://www.youtube.com/playlist?list=PLzecsHoSJ8tIS-D94Te5wVm98pc6SsUK4)
+  - [Real-Time Digital Signal Processing - UT Austin](https://www.youtube.com/playlist?list=PLaJppqXMef2ZHIKM4vpwHIAWyRmw3TtSf)
+  - [ECE503 Digital Signal Processing - WPI](https://www.youtube.com/playlist?list=PLBfTSoOqoRnMHs4FGC0FfDMbewSUsW4Sm)
+  - [Digital Signal Processing - RPI](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
 
 - **Control Systems**
   - [6.231 - Dynamic Programming and Stochastic Control - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/related-video-lectures/)
   - [Electronic Feedback Systems - MIT OCW](https://ocw.mit.edu/resources/res-6-010-electronic-feedback-systems-spring-2013/course-videos/)
   - [Twente University-Engineering //Control Engineering](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcOjwUyA02jHLET8j6h2btk)
+  - [State-Space Control Systems - UoUtah)](http://www.telerobotics.utah.edu/index.php/StateSpaceControl)
 
 
 - **Devices**
@@ -54,6 +60,7 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
   - [Delft University\Electrical Engineering\System Validation](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcrgU3a41pMw9i8O75m8MaM)
   - [Delft University\Electrical Engineering\Measurement Science](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcTf9EKYCmW-0_f-dU5ZloA)
   - [Computational Electromagnetics](https://www.youtube.com/playlist?list=PLaLOVNqqD-2EuTJ97V5bP0wbX2trqwQOV)
+  - [Dr. Furse's University of Utah ECE3300, Electromagnetics](https://www.youtube.com/playlist?list=PLF644C08887BE0EA6)
 
 
 ----------------------------------------------------------------------------------------
