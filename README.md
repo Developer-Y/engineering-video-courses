@@ -37,6 +37,7 @@
   - [Real-Time Digital Signal Processing - UT Austin](https://www.youtube.com/playlist?list=PLaJppqXMef2ZHIKM4vpwHIAWyRmw3TtSf)
   - [ECE503 Digital Signal Processing - WPI](https://www.youtube.com/playlist?list=PLBfTSoOqoRnMHs4FGC0FfDMbewSUsW4Sm)
   - [Digital Signal Processing - RPI](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+  - [ECE 5655/4655 Real-Time DSP UCCS](http://www.eas.uccs.edu/~mwickert/ece5655/)
 
 - **Control Systems**
   - [6.231 - Dynamic Programming and Stochastic Control - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/related-video-lectures/)
