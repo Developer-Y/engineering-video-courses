@@ -26,6 +26,11 @@
 ----------------------------------------------------------------------------------------
 
 ### Electrical Engineering
+
+- **Core**
+  - [EE16A - Designing Information Devices and Systems I - Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIzqJKYzqn5ALZLad3LiNyOK) ([Other link](https://www.youtube.com/playlist?list=PLkFD6_40KJIx07ut92ucpUDbG38LZ9KXP))
+  - [EE 16B - Designing Information Devices and Systems II - Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwBH_SfneRusg2zXL4PEKt3)
+
 - **Circuits**
   - [Circuits and Systems - Caltech](https://itunes.apple.com/us/course/circuits-and-systems/id1191494394) ([YouTube](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)) 
   - [Analog Circuit Design (By Prof. Ali Hajimiri, Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph8d2777p1PUrfPL-8nfj8oZ)
