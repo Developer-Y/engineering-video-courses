@@ -30,12 +30,17 @@
 - **Core**
   - [EE16A - Designing Information Devices and Systems I - Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIzqJKYzqn5ALZLad3LiNyOK) ([Other link](https://www.youtube.com/playlist?list=PLkFD6_40KJIx07ut92ucpUDbG38LZ9KXP))
   - [EE 16B - Designing Information Devices and Systems II - Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwBH_SfneRusg2zXL4PEKt3)
+  - [6.01SC Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 
 - **Circuits**
+  - [6.002 Circuits and Electronics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/)
   - [Circuits and Systems - Caltech](https://itunes.apple.com/us/course/circuits-and-systems/id1191494394) ([YouTube](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)) 
   - [Analog Circuit Design (By Prof. Ali Hajimiri, Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph8d2777p1PUrfPL-8nfj8oZ)
   
 - **Signal Processing**
+  - [Signals and Systems, Oppenheim - MIT OCW](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/)
+  - [6.003 Signals and Systems Fall 2011 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/)
+  - [Digital Signal Processing, Oppenheim - MIT OCW](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/video-lectures/)
   - [Digital Signal Processing - Delft University of Technology](https://itunes.apple.com/us/itunes-u/digital-signal-processing/id499563421) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHfOITYzgdG6gGU-_dTfct8P))
   - [ELEC3104 Digital Signal Processing - UNSWelearning](https://www.youtube.com/playlist?list=PL09D3A5433313EADB)
   - [Digital Signal Processing - Rutgers](https://www.youtube.com/playlist?list=PLzecsHoSJ8tIS-D94Te5wVm98pc6SsUK4)
@@ -50,6 +55,10 @@
   - [Twente University-Engineering //Control Engineering](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcOjwUyA02jHLET8j6h2btk)
   - [State-Space Control Systems - UoUtah)](http://www.telerobotics.utah.edu/index.php/StateSpaceControl)
 
+- **Communication Systems**
+  - [6.02 Introduction to EECS II: Digital Communication Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/lecture-videos/)
+  - [6.450 Principles of Digital Communications I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-digital-communications-i-fall-2006/video-lectures)
+  - [6.451 Principles of Digital Communication II - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-451-principles-of-digital-communication-ii-spring-2005/video-lectures)
 
 - **Devices**
   - [Advanced Device Physics - Delft University of Technology](https://itunes.apple.com/us/itunes-u/advanced-device-physics/id499557538) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdL1QF240RdfWWUnhbtriWF))
@@ -67,6 +76,8 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
   - [Delft University\Electrical Engineering\Measurement Science](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcTf9EKYCmW-0_f-dU5ZloA)
   - [Computational Electromagnetics](https://www.youtube.com/playlist?list=PLaLOVNqqD-2EuTJ97V5bP0wbX2trqwQOV)
   - [Dr. Furse's University of Utah ECE3300, Electromagnetics](https://www.youtube.com/playlist?list=PLF644C08887BE0EA6)
+  - [6.262 Discrete Stochastic Processes - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
+  - [6.780J Control of Manufacturing Processes - MIT OCW](https://ocw.mit.edu/courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/lecture-videos)
 
 
 ----------------------------------------------------------------------------------------
