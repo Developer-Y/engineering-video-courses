@@ -41,6 +41,7 @@
   - [Signals and Systems, Oppenheim - MIT OCW](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/)
   - [6.003 Signals and Systems Fall 2011 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/)
   - [Digital Signal Processing, Oppenheim - MIT OCW](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/video-lectures/)
+  - [EE123 Digital Signal Processing, Sp 16 UC Berkeley](https://www.youtube.com/playlist?list=PLSFazQ8nHIuMbuMpAxZQLkwV7TyXv5x7U)
   - [Digital Signal Processing - Delft University of Technology](https://itunes.apple.com/us/itunes-u/digital-signal-processing/id499563421) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHfOITYzgdG6gGU-_dTfct8P))
   - [ELEC3104 Digital Signal Processing - UNSWelearning](https://www.youtube.com/playlist?list=PL09D3A5433313EADB)
   - [Digital Signal Processing - Rutgers](https://www.youtube.com/playlist?list=PLzecsHoSJ8tIS-D94Te5wVm98pc6SsUK4)
