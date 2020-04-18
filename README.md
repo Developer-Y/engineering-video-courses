@@ -55,6 +55,8 @@
   - [Electronic Feedback Systems - MIT OCW](https://ocw.mit.edu/resources/res-6-010-electronic-feedback-systems-spring-2013/course-videos/)
   - [Twente University-Engineering //Control Engineering](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcOjwUyA02jHLET8j6h2btk)
   - [State-Space Control Systems - UoUtah)](http://www.telerobotics.utah.edu/index.php/StateSpaceControl)
+  - [Control Systems 1 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1OqX0ratNByEat1CtI0U7r)
+  - [Control Systems 2 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1Sw3ECS9DHNU3TgDqzfrMB)
 
 - **Communication Systems**
   - [6.02 Introduction to EECS II: Digital Communication Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/lecture-videos/)
