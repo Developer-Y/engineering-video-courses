@@ -57,6 +57,11 @@
   - [State-Space Control Systems - UoUtah)](http://www.telerobotics.utah.edu/index.php/StateSpaceControl)
   - [Control Systems 1 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1OqX0ratNByEat1CtI0U7r)
   - [Control Systems 2 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1Sw3ECS9DHNU3TgDqzfrMB)
+  - [ME210/EECS210 Linear Multivariable Control Sp2020 - UC Merced](https://www.youtube.com/playlist?list=PL-euleXgwWUMlb1_sko1jZ-b5fNVhdC3D)
+  - [ME212 Advanced Controls - Robustness and Optimality (Fall2019) - UC Merced](https://www.youtube.com/playlist?list=PL-euleXgwWUOPnOvHPDBHihWQ7Rf9ybYV)
+  - [ENGR487 Digital Control (2014W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTek9_bt4R5NVHPjJOvucNUdo)
+  - [APSC246 System Dynamics (2013W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTeloYrKcAJXVeAEeOEZ8Xne3)
+  
 
 - **Communication Systems**
   - [6.02 Introduction to EECS II: Digital Communication Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/lecture-videos/)
