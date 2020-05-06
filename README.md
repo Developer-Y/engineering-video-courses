@@ -61,6 +61,8 @@
   - [ME212 Advanced Controls - Robustness and Optimality (Fall2019) - UC Merced](https://www.youtube.com/playlist?list=PL-euleXgwWUOPnOvHPDBHihWQ7Rf9ybYV)
   - [ENGR487 Digital Control (2014W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTek9_bt4R5NVHPjJOvucNUdo)
   - [APSC246 System Dynamics (2013W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTeloYrKcAJXVeAEeOEZ8Xne3)
+  - [Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+  - [MAE 276: Geometric Nonlinear Control - Prof. Haithem Ezzat - UCI](https://www.youtube.com/playlist?list=PLCheZLRn7G_xVJu4Pn1UhtG8IS3-fQaSi)
   
 
 - **Communication Systems**
