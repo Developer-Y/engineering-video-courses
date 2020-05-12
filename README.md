@@ -105,6 +105,9 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
 - [Engineering 165/265:Advanced Manufacturing Choices - UCI Open](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n_62to1TtaCn6pBNbXEU63)
 - [Delft University-Mechanical Engineering/System Identification and Parameter Estimation](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcqyFLnIZFIXexQG_AD14Wp)
 - [Delft University-Mechanical Engineering//Dredging Processes](https://www.youtube.com/playlist?list=PLrwuNGSwGLHedy8UOzKdaRu7gHCzD-g79)
+- [Engineering Mechanics I - Statics - K. S. Manning, PhD](https://www.youtube.com/playlist?list=PLsZPMbXU6KR4mdndG8Mk8me3pGJJtSIPF)
+- [Engineering Mechanics II- Dynamics - K. S. Manning, PhD](https://www.youtube.com/playlist?list=PLsZPMbXU6KR7AkRfYaKIBzoITiLgOwJx2)
+- [Engineering Mechanics III- Mechanics of Materials - K. S. Manning, PhD](https://www.youtube.com/playlist?list=PLsZPMbXU6KR5i68mzv1BHh28x4xIeEmvT)
 
 ----------------------------------------------------------------------------------------------
 
