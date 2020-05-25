@@ -111,7 +111,7 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
 
 ----------------------------------------------------------------------------------------------
 
-### Civil Engineering/Earth Sciences/Geology
+### Chemical/Civil Engineering/Earth Sciences/Geology
 - [Earth System Science 1: Introduction to Earth System Science](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n_eydBs7yLrA5hG4Vd1FES)
 - [Earth System Science 23: Air Pollution and Global Environments - UCI Open](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l1YaRgOQaob5IHVhwp3XZh)
 - [Delft University\Civil Engineering and Water\Hydrological Measurements](https://www.youtube.com/playlist?list=PLrwuNGSwGLHezMIZRlPnCfDu2d6CxPdNN)
@@ -122,3 +122,4 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
 - [Delft University\Civil Engineering & Water\Watermanagement in Urban Areas](https://www.youtube.com/playlist?list=PLrwuNGSwGLHfQ901hmuSp_SoMSZcHHXSW)
 - [Delft University\Civil Engineering & Water\Petroleum Geology](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcb1wC_MPz6RnL8wpf1eqsU)
 - [University of South Alabama: Introduction to Geophysics](https://www.youtube.com/playlist?list=PLaLOVNqqD-2F6qLtzzzF8uBQA8BFc_cQJ)
+- [U-M Course: Process Dynamics and Controls, ChemE 466](https://www.youtube.com/playlist?list=PL61661C54B782AE9D)
