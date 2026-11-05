@@ -18,6 +18,7 @@
 - [Flight and Orbital Mechanics - Delft University of Technology](https://itunes.apple.com/us/itunes-u/flight-and-orbital-mechanics/id804178547)
 - [Vibrations of Aerospace Structures - Delft University of Technology](https://itunes.apple.com/us/itunes-u/vibrations-aerospace-structures/id575119128) ([YouTube](https://www.youtube.com/playlist?list=PLrwuNGSwGLHebv2R8bMnMhpxVOE0gtugQ))
 - [16.90 Computational Methods in Aerospace Engineering - MIT OCW](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-90-computational-methods-in-aerospace-engineering-spring-2014/lecture-videos/)
+- [16.S897 Spacecraft Attitude Determination and Control - MIT OCW](https://github.com/zacmanchester/spacecraft-attitude-course) ([YouTube](https://www.youtube.com/playlist?list=PLZnJoM76RM6L4_G7ViuutMNxEqNL_IOYg))
 - [Advanced Design and Optimization of Composite Structures I - Delft University](https://www.youtube.com/playlist?list=PLrwuNGSwGLHc7JX93046-knhLnPJI7Lg7)
 - [Delft University\Aerospace Engineering\Advanced Structural Analysis](https://www.youtube.com/playlist?list=PLrwuNGSwGLHcfkeeXsPS9ISqv7bItbR4i)
 - [Delft University\Aerospace Engineering\Advanced Design and Optimization of Composite Structures I](https://www.youtube.com/playlist?list=PLrwuNGSwGLHc7JX93046-knhLnPJI7Lg7)
