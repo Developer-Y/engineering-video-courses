@@ -64,6 +64,7 @@
   - [APSC246 System Dynamics (2013W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTeloYrKcAJXVeAEeOEZ8Xne3)
   - [Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
   - [MAE 276: Geometric Nonlinear Control - Prof. Haithem Ezzat - UCI](https://www.youtube.com/playlist?list=PLCheZLRn7G_xVJu4Pn1UhtG8IS3-fQaSi)
+  - [Numerical Optimal Control - Prof. Dr. Moritz Diehl - Universität Freiburg](https://www.syscop.de/teaching/ws2024/numerical-optimal-control) ([YouTube mirror](https://www.youtube.com/playlist?list=PLPEJ5a1iPLSGNQ2Z9feyqlFCmE_VN1Mbu))
   
 
 - **Communication Systems**
